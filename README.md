@@ -10,6 +10,7 @@ IntelliJ IDEA 知识库
 
 ### 最新
 
+* [IDEA 小技巧之书签与收藏](https://studyidea.cn/bookmark_and_favorites)
 * [IDEA 日常小技巧](https://studyidea.cn/articles/2019/06/02/1559465646386.html)
 * [解决 IDEA 无法找到 java.util.Date 的问题](https://studyidea.cn/articles/2019/06/01/1559382236231.html)
 * [看源码，我为什么推荐IDEA?](https://studyidea.cn/articles/2019/06/01/1559367567644.html)
