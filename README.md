@@ -10,6 +10,7 @@ IntelliJ IDEA 知识库
 
 ### 最新
 
+* [分享一篇理解 IDEA 项目配置的文章-『理解 IntelliJ IDEA 的项目配置和Web部署』](https://studyidea.cn/articles/2019/06/17/1560777539736.html)
 * [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
 * [IDEA 小技巧之书签与收藏](https://studyidea.cn/bookmark_and_favorites)
 * [IDEA 日常小技巧](https://studyidea.cn/articles/2019/06/02/1559465646386.html)
