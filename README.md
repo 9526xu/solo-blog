@@ -10,6 +10,7 @@ IntelliJ IDEA 知识库
 
 ### 最新
 
+* [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
 * [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 * [Spring 注解编程之 AnnotationMetadata](https://studyidea.cn/articles/2019/07/05/1562314284729.html)
 * [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
