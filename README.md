@@ -10,6 +10,7 @@ IntelliJ IDEA 知识库
 
 ### 最新
 
+* [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
 * [Java 参数传递事值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
 * [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
 * [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
