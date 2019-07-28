@@ -10,7 +10,7 @@ IntelliJ IDEA 知识库
 
 ### 最新
 
-* [Ibatis 核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
+* [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
 * [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
 * [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
