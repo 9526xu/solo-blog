@@ -10,6 +10,7 @@ IntelliJ IDEA 知识库
 
 ### 最新
 
+* [技术人需要写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
 * [为什么双重检查锁模式需要 volatile ？](https://studyidea.cn/articles/2019/07/31/1564581660190.html)
 * [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
