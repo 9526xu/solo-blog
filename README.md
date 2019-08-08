@@ -10,6 +10,7 @@ IntelliJ IDEA 知识库
 
 ### 最新
 
+* [ZooKeeper 基本概念分享](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
 * [为什么双重检查锁模式需要 volatile ？](https://studyidea.cn/articles/2019/07/31/1564581660190.html)
 * [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
