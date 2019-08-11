@@ -10,6 +10,7 @@ IntelliJ IDEA 知识库
 
 ### 最新
 
+* [Dubbo 如何使用 ZooKeeper 作为注册中心](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
 * [XCP 二维码测试](https://studyidea.cn/articles/2019/08/09/1565343697861.html)
 * [ZooKeeper 基本概念分享](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
