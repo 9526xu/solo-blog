@@ -10,6 +10,7 @@ IntelliJ IDEA 知识库
 
 ### 最新
 
+* [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
 * [Dubbo 如何使用 ZooKeeper 作为注册中心](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
 * [XCP 二维码测试](https://studyidea.cn/articles/2019/08/09/1565343697861.html)
 * [ZooKeeper 基本概念分享](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
@@ -29,6 +30,9 @@ IntelliJ IDEA 知识库
 * [解决 IDEA 无法找到 java.util.Date 的问题](https://studyidea.cn/articles/2019/06/01/1559382236231.html)
 * [看源码，我为什么推荐IDEA?](https://studyidea.cn/articles/2019/06/01/1559367567644.html)
 * [为什么将 Intellij IDEA 作为日常开发的首选](https://studyidea.cn/-why_choose_idea)
+
+### 热门
+
 * [还不知道如何使用 IDEA 功能？教你三招掌握大部分功能](https://studyidea.cn/articles/2019/05/30/1559152180029.html)
 
 
