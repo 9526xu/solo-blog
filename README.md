@@ -1,18 +1,17 @@
-<p align="center"><img alt="IntelliJ IDEA 知识库" src="https://img.hacpai.com/file/2019/05/intellijicon-f72becf9.png"></p><h2 align="center">
-IntelliJ IDEA 知识库
+<p align="center"><img alt="程序通事" src="https://img.hacpai.com/file/2019/05/intellijicon-f72becf9.png"></p><h2 align="center">
+程序通事
 </h2>
 
 <h4 align="center"></h4>
-<p align="center"><a title="IntelliJ IDEA 知识库" target="_blank" href="https://github.com/9526xu/solo-blog"><img src="https://img.shields.io/github/last-commit/9526xu/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="程序通事" target="_blank" href="https://github.com/9526xu/solo-blog"><img src="https://img.shields.io/github/last-commit/9526xu/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/9526xu/solo-blog"><img src="https://img.shields.io/github/repo-size/9526xu/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/9526xu/solo-blog.svg"></a></p>
 
 ### 最新
 
 * [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
 * [Dubbo 如何使用 ZooKeeper 作为注册中心](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
-* [XCP 二维码测试](https://studyidea.cn/articles/2019/08/09/1565343697861.html)
 * [ZooKeeper 基本概念分享](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
 * [为什么双重检查锁模式需要 volatile ？](https://studyidea.cn/articles/2019/07/31/1564581660190.html)
@@ -30,9 +29,6 @@ IntelliJ IDEA 知识库
 * [解决 IDEA 无法找到 java.util.Date 的问题](https://studyidea.cn/articles/2019/06/01/1559382236231.html)
 * [看源码，我为什么推荐IDEA?](https://studyidea.cn/articles/2019/06/01/1559367567644.html)
 * [为什么将 Intellij IDEA 作为日常开发的首选](https://studyidea.cn/-why_choose_idea)
-
-### 热门
-
 * [还不知道如何使用 IDEA 功能？教你三招掌握大部分功能](https://studyidea.cn/articles/2019/05/30/1559152180029.html)
 
 
