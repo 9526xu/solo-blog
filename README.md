@@ -11,7 +11,7 @@
 ### 最新
 
 * [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
-* [Dubbo 如何使用 ZooKeeper 作为注册中心](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
+* [Dubbo Zk 数据结构](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
 * [ZooKeeper 基本概念分享](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
 * [为什么双重检查锁模式需要 volatile ？](https://studyidea.cn/articles/2019/07/31/1564581660190.html)
