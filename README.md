@@ -1,8 +1,8 @@
-<p align="center"><img alt="程序通事" src="https://img.hacpai.com/file/2019/05/intellijicon-f72becf9.png"></p><h2 align="center">
+<p align="center"><img alt="程序通事" src="https://img.hacpai.com/file/2019/08/reallogo-25908c87.png"></p><h2 align="center">
 程序通事
 </h2>
 
-<h4 align="center"></h4>
+<h4 align="center">喜欢唱，跳，摸鱼，还有挖坑。。。。</h4>
 <p align="center"><a title="程序通事" target="_blank" href="https://github.com/9526xu/solo-blog"><img src="https://img.shields.io/github/last-commit/9526xu/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/9526xu/solo-blog"><img src="https://img.shields.io/github/repo-size/9526xu/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
