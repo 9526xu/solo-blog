@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [SPI 机制-插件化扩展功能](https://studyidea.cn/articles/2019/08/28/1566984830112.html)
 * [从源码解析 Spring JDBC 异常抽象](https://studyidea.cn/articles/2019/08/26/1566790658521.html)
 * [Dubbo 2.7.1 踩坑记](https://studyidea.cn/articles/2019/08/26/1566790622115.html)
 * [支付渠道路由系统进化史](https://studyidea.cn/articles/2019/08/26/1566790579930.html)
@@ -29,7 +30,6 @@
 * [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
 * [为什么双重检查锁模式需要 volatile ？](https://studyidea.cn/articles/2019/07/31/1564581660190.html)
-* [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
 
 ### 热门
 
@@ -41,9 +41,10 @@
 * [看源码，我为什么推荐IDEA?](https://studyidea.cn/articles/2019/06/01/1559367567644.html)
 * [分享一篇理解 IDEA 项目配置的文章-『理解 IntelliJ IDEA 的项目配置和Web部署』](https://studyidea.cn/articles/2019/06/17/1560777539736.html)
 * [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
+* [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
+* [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
 * [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
 * [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
-* [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
 * [Spring 注解编程之 AnnotationMetadata](https://studyidea.cn/articles/2019/07/05/1562314284729.html)
 * [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
