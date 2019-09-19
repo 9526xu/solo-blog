@@ -26,10 +26,10 @@
 * [聊聊分布式事务](https://studyidea.cn/articles/2019/08/26/1566790053866.html)
 * [数据库相关异常分析](https://studyidea.cn/articles/2019/08/26/1566790015570.html)
 * [rocketmq 部署启动指南-Docker 版](https://studyidea.cn/articles/2019/08/25/1566733255551.html)
+* [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
 * [如果有人问你 Dubbo 中注册中心工作原理，就把这篇文章给他](https://studyidea.cn/articles/2019/08/15/1565863724325.html)
 * [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
 * [Dubbo Zk 数据结构](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
-* [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 
 ### 热门
 
@@ -45,6 +45,7 @@
 * [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 * [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
 * [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
+* [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
 * [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
