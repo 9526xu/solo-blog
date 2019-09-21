@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Kafka 异步消息也会阻塞？记一次 Dubbo 频繁超时排查过程](https://studyidea.cn/articles/2019/09/20/1568988162424.html)
 * [ShutdownHook- Java 优雅停机解决方案](https://studyidea.cn/articles/2019/09/03/1567504427330.html)
 * [面试官:都说阻塞 I/O 模型将会使线程休眠，为什么 Java 线程状态却是 RUNNABLE？](https://studyidea.cn/articles/2019/09/01/1567329584198.html)
 * [SPI 机制-插件化扩展功能](https://studyidea.cn/articles/2019/08/28/1566984830112.html)
@@ -29,7 +30,6 @@
 * [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
 * [如果有人问你 Dubbo 中注册中心工作原理，就把这篇文章给他](https://studyidea.cn/articles/2019/08/15/1565863724325.html)
 * [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
-* [Dubbo Zk 数据结构](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
 
 ### 热门
 
@@ -41,6 +41,7 @@
 * [看源码，我为什么推荐IDEA?](https://studyidea.cn/articles/2019/06/01/1559367567644.html)
 * [分享一篇理解 IDEA 项目配置的文章-『理解 IntelliJ IDEA 的项目配置和Web部署』](https://studyidea.cn/articles/2019/06/17/1560777539736.html)
 * [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
+* [Dubbo Zk 数据结构](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
 * [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
 * [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 * [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
