@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://studyidea.cn/my-github-repos)
 * [协作，才能更好的中断线程](https://studyidea.cn/articles/2019/09/27/1569594617973.html)
 * [Kafka 异步消息也会阻塞？记一次 Dubbo 频繁超时排查过程](https://studyidea.cn/articles/2019/09/20/1568988162424.html)
 * [线程池优雅关闭](https://studyidea.cn/articles/2019/09/08/1567940077280.html)
@@ -29,7 +30,6 @@
 * [聊聊分布式事务](https://studyidea.cn/articles/2019/08/26/1566790053866.html)
 * [数据库相关异常分析](https://studyidea.cn/articles/2019/08/26/1566790015570.html)
 * [rocketmq 部署启动指南-Docker 版](https://studyidea.cn/articles/2019/08/25/1566733255551.html)
-* [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
 
 ### 热门
 
@@ -50,13 +50,14 @@
 * [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
 * [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
 * [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
-* [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
+* [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
 * [为什么双重检查锁模式需要 volatile ？](https://studyidea.cn/articles/2019/07/31/1564581660190.html)
 
 ### 热议
 
 * [Spring 注解编程之 AnnotationMetadata](https://studyidea.cn/articles/2019/07/05/1562314284729.html)
+* [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
 
 ---
 
