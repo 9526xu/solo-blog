@@ -39,13 +39,12 @@
 * [解决 IDEA 无法找到 java.util.Date 的问题](https://studyidea.cn/articles/2019/06/01/1559382236231.html)
 * [如果有人问你 Dubbo 中注册中心工作原理，就把这篇文章给他](https://studyidea.cn/articles/2019/08/15/1565863724325.html)
 * [为什么将 Intellij IDEA 作为日常开发的首选](https://studyidea.cn/-why_choose_idea)
-* [看源码，我为什么推荐IDEA?](https://studyidea.cn/articles/2019/06/01/1559367567644.html)
 * [分享一篇理解 IDEA 项目配置的文章-『理解 IntelliJ IDEA 的项目配置和Web部署』](https://studyidea.cn/articles/2019/06/17/1560777539736.html)
 * [Dubbo Zk 数据结构](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
 * [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
 * [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
-* [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
 * [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
+* [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
 * [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
 * [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
@@ -53,10 +52,9 @@
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
 * [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
 * [为什么双重检查锁模式需要 volatile ？](https://studyidea.cn/articles/2019/07/31/1564581660190.html)
-
-### 热议
-
 * [Spring 注解编程之 AnnotationMetadata](https://studyidea.cn/articles/2019/07/05/1562314284729.html)
+
+
 
 ---
 
