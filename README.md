@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [还在重复写空指针检查代码？考虑使用 Optional 吧！](https://studyidea.cn/java-optional)
 * [协作，才能更好的中断线程](https://studyidea.cn/articles/2019/09/27/1569594617973.html)
 * [Kafka 异步消息也会阻塞？记一次 Dubbo 频繁超时排查过程](https://studyidea.cn/articles/2019/09/20/1568988162424.html)
 * [一文教你安全的关闭线程池](https://studyidea.cn/articles/2019/09/08/1567940077280.html)
@@ -29,7 +30,6 @@
 * [聊聊分布式事务](https://studyidea.cn/articles/2019/08/26/1566790053866.html)
 * [数据库相关异常分析](https://studyidea.cn/articles/2019/08/26/1566790015570.html)
 * [rocketmq 部署启动指南-Docker 版](https://studyidea.cn/articles/2019/08/25/1566733255551.html)
-* [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
 
 ### 热门
 
@@ -43,18 +43,20 @@
 * [分享一篇理解 IDEA 项目配置的文章-『理解 IntelliJ IDEA 的项目配置和Web部署』](https://studyidea.cn/articles/2019/06/17/1560777539736.html)
 * [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
 * [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
+* [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
 * [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 * [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
+* [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
 * [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
 * [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
-* [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
-* [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
+* [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
 * [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
 * [为什么双重检查锁模式需要 volatile ？](https://studyidea.cn/articles/2019/07/31/1564581660190.html)
+
+### 热议
+
 * [Spring 注解编程之 AnnotationMetadata](https://studyidea.cn/articles/2019/07/05/1562314284729.html)
-
-
 
 ---
 
