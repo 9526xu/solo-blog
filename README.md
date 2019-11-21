@@ -49,10 +49,10 @@
 * [rocketmq 部署启动指南-Docker 版](https://studyidea.cn/articles/2019/08/25/1566733255551.html)
 * [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
 * [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
-* [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
-* [从源码学习设计模式之模板方法](https://studyidea.cn/articles/2019/08/26/1566790117004.html)
+* [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
+* [从源码学习设计模式之模板方法](https://studyidea.cn/articles/2019/08/26/1566790117004.html)
 
 ### 热议
 
