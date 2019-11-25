@@ -11,6 +11,7 @@
 ### 最新
 
 * [分享 IDEA 调试源码的小技巧](https://studyidea.cn/articles/2019/11/19/1574179066310.html)
+* [🙈羞，Spring Bean 初始化/销毁竟然有这么多姿势](https://studyidea.cn/articles/2019/11/16/1573900549564.html)
 * [IDEA Debug 无法进入断点的解决方法](https://studyidea.cn/idea_breakpoint_not_use)
 * [手把手教你实现热更新功能，带你了解 Arthas 热更新背后的原理](https://studyidea.cn/java-hotswap)
 * [Dubbo 优雅停机演进之路](https://studyidea.cn/articles/2019/10/28/1572271224964.html)
@@ -29,7 +30,6 @@
 * [聊聊银企直联服务那些事](https://studyidea.cn/articles/2019/08/26/1566790401205.html)
 * [从零开始设计对账系统](https://studyidea.cn/articles/2019/08/26/1566790305561.html)
 * [聊聊我的 2018 年](https://studyidea.cn/articles/2019/08/26/1566790264635.html)
-* [一次慢查询暴露的隐蔽的问题](https://studyidea.cn/articles/2019/08/26/1566790220148.html)
 
 ### 热门
 
@@ -44,15 +44,15 @@
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
 * [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
 * [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
+* [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
 * [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
+* [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
+* [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 * [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
 * [rocketmq 部署启动指南-Docker 版](https://studyidea.cn/articles/2019/08/25/1566733255551.html)
-* [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
-* [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
 * [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
 * [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [从源码学习设计模式之模板方法](https://studyidea.cn/articles/2019/08/26/1566790117004.html)
-* [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 
 ### 热议
 
@@ -62,6 +62,7 @@
 * [数据库相关异常分析](https://studyidea.cn/articles/2019/08/26/1566790015570.html)
 * [聊聊分布式事务](https://studyidea.cn/articles/2019/08/26/1566790053866.html)
 * [聊聊我的 Java 自学之路](https://studyidea.cn/articles/2019/08/26/1566790154008.html)
+* [一次慢查询暴露的隐蔽的问题](https://studyidea.cn/articles/2019/08/26/1566790220148.html)
 
 ---
 
