@@ -5,12 +5,13 @@
 <h4 align="center">Java 开发者，公众号@程序通事，定期分享干货文章。博客地址：https://studyidea.cn，抢先查看最新文章</h4>
 <p align="center"><a title="程序通事" target="_blank" href="https://github.com/9526xu/solo-blog"><img src="https://img.shields.io/github/last-commit/9526xu/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/9526xu/solo-blog"><img src="https://img.shields.io/github/repo-size/9526xu/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/9526xu/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/9526xu/solo-blog.svg"></a></p>
 
 ### 最新
 
 * [分享 IDEA 调试源码的小技巧](https://studyidea.cn/articles/2019/11/19/1574179066310.html)
+* [🙀Java 又双叒叕发布新版本，这么多版本如何灵活管理？](https://studyidea.cn/articles/2019/11/19/1574177565129.html)
 * [🙈羞，Spring Bean 初始化/销毁竟然有这么多姿势](https://studyidea.cn/articles/2019/11/16/1573900549564.html)
 * [IDEA Debug 无法进入断点的解决方法](https://studyidea.cn/idea_breakpoint_not_use)
 * [手把手教你实现热更新功能，带你了解 Arthas 热更新背后的原理](https://studyidea.cn/java-hotswap)
@@ -29,27 +30,26 @@
 * [锁住余额，为何还会更新异常？](https://studyidea.cn/articles/2019/08/26/1566790545895.html)
 * [聊聊银企直联服务那些事](https://studyidea.cn/articles/2019/08/26/1566790401205.html)
 * [从零开始设计对账系统](https://studyidea.cn/articles/2019/08/26/1566790305561.html)
-* [聊聊我的 2018 年](https://studyidea.cn/articles/2019/08/26/1566790264635.html)
 
 ### 热门
 
 * [IDEA 日常小技巧](https://studyidea.cn/articles/2019/06/02/1559465646386.html)
 * [IDEA 小技巧之书签与收藏](https://studyidea.cn/bookmark_and_favorites)
 * [还不知道如何使用 IDEA 功能？教你三招掌握大部分功能](https://studyidea.cn/articles/2019/05/30/1559152180029.html)
-* [解决 IDEA 无法找到 java.util.Date 的问题](https://studyidea.cn/articles/2019/06/01/1559382236231.html)
 * [如果有人问你 Dubbo 中注册中心工作原理，就把这篇文章给他](https://studyidea.cn/articles/2019/08/15/1565863724325.html)
+* [解决 IDEA 无法找到 java.util.Date 的问题](https://studyidea.cn/articles/2019/06/01/1559382236231.html)
 * [为什么将 Intellij IDEA 作为日常开发的首选](https://studyidea.cn/-why_choose_idea)
 * [Dubbo Zk 数据结构](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
-* [分享一篇理解 IDEA 项目配置的文章-『理解 IntelliJ IDEA 的项目配置和Web部署』](https://studyidea.cn/articles/2019/06/17/1560777539736.html)
 * [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
+* [分享一篇理解 IDEA 项目配置的文章-『理解 IntelliJ IDEA 的项目配置和Web部署』](https://studyidea.cn/articles/2019/06/17/1560777539736.html)
 * [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
 * [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
-* [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
 * [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
+* [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
 * [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
-* [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
 * [Spring 注解编程之 AnnotationMetadata](https://studyidea.cn/articles/2019/07/05/1562314284729.html)
+* [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
 * [rocketmq 部署启动指南-Docker 版](https://studyidea.cn/articles/2019/08/25/1566733255551.html)
 * [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
 * [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
@@ -63,7 +63,8 @@
 * [从源码学习设计模式之模板方法](https://studyidea.cn/articles/2019/08/26/1566790117004.html)
 * [聊聊我的 Java 自学之路](https://studyidea.cn/articles/2019/08/26/1566790154008.html)
 * [一次慢查询暴露的隐蔽的问题](https://studyidea.cn/articles/2019/08/26/1566790220148.html)
+* [聊聊我的 2018 年](https://studyidea.cn/articles/2019/08/26/1566790264635.html)
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
