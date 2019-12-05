@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [原生线程池这么强大，Tomcat 为何还需扩展线程池？](https://studyidea.cn/articles/2019/12/01/1575187296406.html)
 * [分享 IDEA 调试源码的小技巧](https://studyidea.cn/articles/2019/11/19/1574179066310.html)
 * [🙀Java 又双叒叕发布新版本，这么多版本如何灵活管理？](https://studyidea.cn/articles/2019/11/19/1574177565129.html)
 * [🙈羞，Spring Bean 初始化/销毁竟然有这么多姿势](https://studyidea.cn/articles/2019/11/16/1573900549564.html)
@@ -29,24 +30,23 @@
 * [支付渠道路由系统进化史](https://studyidea.cn/articles/2019/08/26/1566790579930.html)
 * [锁住余额，为何还会更新异常？](https://studyidea.cn/articles/2019/08/26/1566790545895.html)
 * [聊聊银企直联服务那些事](https://studyidea.cn/articles/2019/08/26/1566790401205.html)
-* [从零开始设计对账系统](https://studyidea.cn/articles/2019/08/26/1566790305561.html)
 
 ### 热门
 
 * [IDEA 日常小技巧](https://studyidea.cn/articles/2019/06/02/1559465646386.html)
 * [IDEA 小技巧之书签与收藏](https://studyidea.cn/bookmark_and_favorites)
-* [还不知道如何使用 IDEA 功能？教你三招掌握大部分功能](https://studyidea.cn/articles/2019/05/30/1559152180029.html)
 * [如果有人问你 Dubbo 中注册中心工作原理，就把这篇文章给他](https://studyidea.cn/articles/2019/08/15/1565863724325.html)
+* [还不知道如何使用 IDEA 功能？教你三招掌握大部分功能](https://studyidea.cn/articles/2019/05/30/1559152180029.html)
 * [解决 IDEA 无法找到 java.util.Date 的问题](https://studyidea.cn/articles/2019/06/01/1559382236231.html)
 * [为什么将 Intellij IDEA 作为日常开发的首选](https://studyidea.cn/-why_choose_idea)
 * [Dubbo Zk 数据结构](https://studyidea.cn/articles/2019/08/11/1565514751471.html)
 * [缘起 Dubbo ，讲讲 Spring XML Schema 扩展机制](https://studyidea.cn/articles/2019/06/15/1560598141405.html)
 * [分享一篇理解 IDEA 项目配置的文章-『理解 IntelliJ IDEA 的项目配置和Web部署』](https://studyidea.cn/articles/2019/06/17/1560777539736.html)
-* [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 * [一个诡异的生产问题排查](https://studyidea.cn/articles/2019/07/25/1564063324112.html)
+* [Spring 注解编程之注解属性别名与覆盖](https://studyidea.cn/articles/2019/07/10/1562768280760.html)
 * [聚合收款二维码相关分享](https://studyidea.cn/articles/2019/08/14/1565776563471.html)
-* [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
 * [Spring 注解编程之模式注解](https://studyidea.cn/spring-stereotype-annotations)
+* [不知道如何实现服务的动态发现？快来看看 Dubbo 是如何做到的](https://studyidea.cn/articles/2019/08/19/1566216571466.html)
 * [ibatis  核心原理解析](https://studyidea.cn/articles/2019/07/27/1564223174815.html)
 * [Spring 注解编程之 AnnotationMetadata](https://studyidea.cn/articles/2019/07/05/1562314284729.html)
 * [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
@@ -64,6 +64,7 @@
 * [聊聊我的 Java 自学之路](https://studyidea.cn/articles/2019/08/26/1566790154008.html)
 * [一次慢查询暴露的隐蔽的问题](https://studyidea.cn/articles/2019/08/26/1566790220148.html)
 * [聊聊我的 2018 年](https://studyidea.cn/articles/2019/08/26/1566790264635.html)
+* [从零开始设计对账系统](https://studyidea.cn/articles/2019/08/26/1566790305561.html)
 
 ---
 
