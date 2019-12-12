@@ -52,12 +52,12 @@
 * [深入学习 Intellij IDEA 调试技巧](https://studyidea.cn/articles/2019/07/14/1563093546093.html)
 * [rocketmq 部署启动指南-Docker 版](https://studyidea.cn/articles/2019/08/25/1566733255551.html)
 * [Java 参数传递是值传递还是引用传递？](https://studyidea.cn/articles/2019/07/21/1563701593446.html)
-* [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
+* [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
 
 ### 热议
 
 * [为什么双重检查锁模式需要 volatile ？](https://studyidea.cn/articles/2019/07/31/1564581660190.html)
-* [程序员：你写文档吗？](https://studyidea.cn/articles/2019/08/04/1564912554838.html)
+* [ZooKeeper 相关概念以及使用小结](https://studyidea.cn/articles/2019/08/07/1565185374187.html)
 * [数据库相关异常分析](https://studyidea.cn/articles/2019/08/26/1566790015570.html)
 * [聊聊分布式事务](https://studyidea.cn/articles/2019/08/26/1566790053866.html)
 * [从源码学习设计模式之模板方法](https://studyidea.cn/articles/2019/08/26/1566790117004.html)
